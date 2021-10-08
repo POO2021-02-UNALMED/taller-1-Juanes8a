@@ -1,0 +1,3 @@
+Nombre: Juan Esteban Ochoa Gómez
+Edad: 19
+Aspiraciones con la materia: Las aspiraciones que tengo con POO es mejorar en el trabajo en equipo, aprender Java y aprender a usar adecuadamente GitHub con mi equipo.
