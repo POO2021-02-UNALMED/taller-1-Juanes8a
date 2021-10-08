@@ -1,0 +1,1 @@
+La carpeta archivos tenía la restricción de hacer parte en el commit al estar vacía, cuando se añade respuesta.txt en ella está habilitada para realizar el commit y subir la carpeta :) 
