@@ -1,0 +1,1 @@
+Sí hubo un problema con el punto anterior y es que la carpeta llamada 'archivos' al estar vacía no aparecerá para hacer el commit :(
