@@ -1,3 +1,6 @@
 Nombre: Juan Esteban Ochoa Gómez
 Edad: 19
 Aspiraciones con la materia: Las aspiraciones que tengo con POO es mejorar en el trabajo en equipo, aprender Java y aprender a usar adecuadamente GitHub con mi equipo.
+La carpeta archivos tenía la restricción de hacer parte en el commit al estar vacía, cuando se añade respuesta.txt en ella está habilitada para realizar el commit y subir la carpeta :) 
+
+¿Por qué es importante tener cuidado con modificar dos archivos al mismo tiempo? Porque si la persona no esta pendiente puede eliminar el trabajo de uno de sus compañeros o generar inconsistencias.
